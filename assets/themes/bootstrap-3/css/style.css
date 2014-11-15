@@ -77,3 +77,35 @@ h1, h2, h3, h4 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+/* Custom CSS for Zenforms */
+
+.navbar-default {
+  background-image: none;
+  border: none;
+  border-radius: 0px;
+  background-color: #3498db;
+}
+
+.navbar-default .navbar-brand {
+  color: #fff;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-nav {
+  margin-left: 15px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+  line-height: 50px;
+}
+
+.navbar-default .navbar-form {
+  line-height: 60px;
+}
+
+#footer {
+  background-color: #3498db;
+  color: #fff;
+}
